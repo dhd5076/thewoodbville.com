@@ -1,0 +1,195 @@
+PIZZA / FLATBREADS: (Appetizer Or Entree)
+
+    4 Cheese Pizza - A classic pizza topped with a blend of four cheeses: mozzarella, cheddar, provolone, and Parmesan. - $3.50/p
+
+    Buffalo Chicken Flatbread - A spicy and tangy flatbread topped with shredded buffalo chicken, diced celery, and a drizzle of ranch dressing. - $6/p
+
+    Meat Lovers Pizza - A hearty pizza loaded with savory toppings such as pepperoni, sausage, bacon, and ham. - $6/p
+
+    Spinach Artichoke Flatbread - A flavorful flatbread topped with creamy spinach artichoke dip, mozzarella cheese, and Parmesan. - $5/p
+
+    Margherita Pizza - A traditional Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. - $6/p
+
+    Fig & Prosciutto Flatbread - A gourmet flatbread topped with sweet fig jam, thinly sliced prosciutto, arugula, and balsamic glaze. - $7/p
+
+    Veggie Supreme Pizza - A colorful pizza loaded with an assortment of fresh vegetables such as bell peppers, onions, mushrooms, and olives. - $5/p
+
+    BBQ Chicken Flatbread - A delicious flatbread topped with tangy BBQ sauce, shredded chicken, red onions, cilantro, and mozzarella cheese. - $5.50/p
+
+    Mediterranean Flatbread - A light and flavorful flatbread topped with hummus, roasted red peppers, Kalamata olives, feta cheese, and fresh herbs. - $7/p
+
+APPETIZERS:
+
+    Chips and Salsa - Crispy tortilla chips served with house-made salsa. - $2/p
+
+    Spinach Artichoke Dip - Creamy spinach and artichoke dip served with tortilla chips. - $4/p
+
+    Buffalo Chicken Wing Dip - A creamy and spicy dip made with shredded chicken, buffalo sauce, and cream cheese, served with tortilla chips or celery sticks. - $4/p
+
+    Corn Dip - A creamy dip made with sweet corn, cream cheese, cheddar cheese, and spices, served with tortilla chips. - $3/p
+
+    Crudite - Fresh vegetable sticks served with a choice of dip. - $3/p
+
+    Assorted Meat and Cheese Charcuterie - A selection of cured meats, cheeses, fruits, and nuts, served with crackers. Upgrade to premium meat and cheese for $11/p. - $7/p
+
+    Ricotta Toast - Slices of house made foccocia topped with creamy ricotta cheese, honey, and a sprinkle of sea salt. - $3/p
+
+    Caprese Skewers - Skewers of cherry tomatoes, fresh mozzarella balls, and basil leaves drizzled with balsamic glaze. - $3/p
+
+    Blue Crab Cakes - Homemade crab cakes made with lump crab meat, breadcrumbs, and spices, served with remoulade sauce. - $7/p
+
+    Vegetable Spring Rolls - Crispy spring rolls filled with a mix of vegetables and served with sweet chili sauce. - $5/p
+
+    Smoked Salmon Canapés - Bite-sized toasts topped with smoked salmon, cream cheese, and dill. - $6/p
+
+    Stuffed Jalapeños - Jalapeño peppers stuffed with cream cheese, cheddar cheese, and bacon, then baked until golden and bubbly. - $4.50/p
+
+    Cheeseburger Sliders - Mini beef burgers topped with cheese, lettuce, tomato, and pickle slices, served on slider buns. - $4.50/p
+
+    Nashville Chicken Sliders - Spicy fried chicken sliders topped with pickles and mayonnaise, served on slider buns. - $4.50/p
+
+    Savory Sausage Puffs - Flaky puff pastry filled with seasoned sausage and cheese. - $3/p
+
+    Bacon Wrapped Dates - Sweet dates stuffed with blue cheese, wrapped in bacon, and baked until crispy. - $7/p
+
+    Mini Beef Wellingtons - Tender beef filet wrapped in puff pastry with mushroom duxelles and baked until golden brown. - $11/p
+
+    Shrimp Cocktail - Chilled shrimp served with cocktail sauce and lemon wedges. - $7/p
+
+    Bacon Wrapped Scallops - Juicy scallops wrapped in bacon and broiled until crispy and caramelized. - $10/p
+
+    Spinach / Ham and Cheese Quiche - Flaky pastry crust filled with a savory custard, spinach, ham, and cheese. - $6/p
+
+    Pork Steam Buns - Steamed buns filled with tender shredded pork, pickled vegetables, and hoisin sauce. - $5/p
+
+    White Bean Hummus and House-Made Naan Bread - Creamy white bean hummus served with soft and fluffy house-made naan bread. - $7/p
+
+    Maple Bacon Butter Sliders - Mini sliders made with ground beef patties topped with maple bacon butter and caramelized onions. - $4.50/p
+
+    Corn and Black Bean Quesadillas - Grilled flour tortillas filled with corn, black beans, cheese, and spices, served with salsa and sour cream. - $5.50/p
+
+SALADS:
+
+    Caesar Salad - Crisp romaine lettuce tossed in creamy Caesar dressing with garlic croutons and Parmesan cheese. - $4/p
+
+    Mixed Green Salad - Mixed greens with cucumber, cherry tomatoes, carrots, and choice of dressing. - $3.50/p
+
+    Greek Salad - A refreshing salad with romaine lettuce, cucumbers, tomatoes, red onions, Kalamata olives, and feta cheese, tossed in Greek dressing. - $6/p
+
+    Roasted Beet and Goat Cheese Salad - Roasted beets served on a bed of mixed greens with creamy goat cheese, candied walnuts, and balsamic vinaigrette. - $7/p
+
+    Waldorf Salad - A classic salad made with crisp apples, celery, grapes, walnuts, and mixed greens, dressed in a creamy mayonnaise dressing. - $6/p
+
+    Spinach and Strawberry Salad - Baby spinach leaves topped with fresh strawberries, sliced almonds, feta cheese, and balsamic vinaigrette. - $6.50/p
+
+    Caprese Salad - Slices of fresh tomatoes, mozzarella cheese, and basil leaves drizzled with balsamic glaze and olive oil. - $8/p
+
+    Watermelon and Feta Salad With Mint and Pomegranate Glaze - Sweet watermelon chunks paired with salty feta cheese, fresh mint, and a tangy pomegranate glaze. - $8/p
+
+ENTREES:
+
+    Chicken French - Tender chicken breasts dredged in seasoned flour, sautéed in a lemon butter sauce with white wine and garnished with parsley. - $11/p
+
+    Barbecue Ribs - Slow-cooked pork ribs basted in tangy barbecue sauce until tender and falling off the bone. - $17/p
+
+    BBQ Pulled Pork - Slow-cooked pulled pork shoulder smothered in barbecue sauce and served with buns for sandwiches. - $13/p
+
+    Herb-Roasted Chicken Breast - Juicy chicken breasts marinated in herbs and roasted to perfection, served with a side of gravy. - $12/p
+
+    Salmon Fillet - Fresh salmon fillets seasoned and grilled to perfection, served with lemon wedges. - $18/p
+
+    Filet Mignon Medallions - Tender cuts of filet mignon, grilled to your preference and served with a choice of sauce. - $35/p
+
+    Roast Beef with Au Jus - Slow-roasted beef served thinly sliced with a flavorful au jus for dipping. - $19/p
+
+    Chicken Satay Skewers - Grilled chicken skewers marinated in a flavorful peanut sauce, served with a side of dipping sauce. - $11/p
+
+    Assorted Wraps (Ham and Cheese, Turkey, Roast Beef) - A variety of wraps filled with classic deli meats, cheese, lettuce, and tomato. - $9/p
+
+    Burger Bar - Build-your-own burger station with a selection of toppings and condiments. - $9/p
+
+    Seared Scallop Skewers - Plump scallops seasoned and seared to perfection, served on skewers. - $16/p
+
+    Braised Short Ribs - Succulent beef short ribs slow-cooked until fork-tender in a rich red wine sauce. - $28/p
+
+    Lobster Ravioli with Sage Brown Butter - House-made lobster ravioli served in a decadent sage-infused brown butter sauce. - $34/p
+
+    Grilled Lamb Chops - Tender lamb chops marinated in herbs and spices, grilled to perfection. - $31/p
+
+    Butternut Squash Ravioli - Pillowy ravioli stuffed with butternut squash filling, served with a creamy sauce. - $14/p
+
+    Grilled Portobello Mushrooms - Large portobello mushrooms marinated and grilled to perfection, served with balsamic glaze. - $15/p
+
+    Vegetable Paella - A Spanish-inspired rice dish loaded with vegetables, saffron, and fragrant spices. - $21/p
+
+    Eggplant Parmesan - Slices of eggplant coated in breadcrumbs, fried until crispy, layered with marinara sauce and melted mozzarella cheese. - $13/p
+
+SIDES:
+
+    Garlic Mashed Potatoes - Creamy mashed potatoes infused with roasted garlic and butter. - $3.50/p
+
+    Baked Beans - Slow-cooked baked beans flavored with molasses, brown sugar, and bacon. - $3/p
+
+    Grilled Asparagus - Fresh asparagus spears seasoned and grilled until tender-crisp. - $4/p
+
+    Baked Mac and Cheese - Creamy macaroni and cheese baked until golden and bubbly. - $4/p
+
+    Corn on the Cob - Fresh ears of corn roasted and served with butter and seasonings. - $5/p
+
+    Wild Rice Pilaf - A flavorful blend of wild rice, herbs, and vegetables. - $4/p
+
+    Honey Glazed Carrots - Tender carrots tossed in a honey glaze and roasted until caramelized. - $3/p
+
+    Roasted Vegetable Medley - Assorted seasonal vegetables roasted to perfection with olive oil and herbs. - $3/p
+
+    Fruit Salad - A refreshing mix of seasonal fruits, such as melons, berries, and citrus, tossed in a light citrus dressing. - $4/p
+
+    Sweet Potato Fries - Crispy sweet potato fries seasoned with salt and served with Honey. - $4.50/p
+
+    Waffle Fries - Lightly seasoned and crispy waffle fries. $3/p
+
+    Butternut Squash Risotto - Creamy risotto made with Arborio rice, roasted butternut squash, and Parmesan cheese. - $5/p
+
+    Roasted Brussels Sprouts - Brussels sprouts tossed in olive oil, garlic, and seasoning, then roasted until crispy and caramelized. - $4.50/p
+
+    Pesto Pasta Salad - Penne pasta tossed in a basil pesto sauce with cherry tomatoes, mozzarella balls, and pine nuts. - $6/p
+
+    Loaded Potato Skins - Crispy potato skins filled with cheese, bacon, sour cream, and green onions. - $5/p
+
+    Rosemary Fingerling Potatoes - Confit Fingerling potatoes roasted with rosemary, garlic, and olive oil until golden and crispy. - $9/p
+
+    Creamed Spinach - Fresh spinach cooked in a creamy sauce flavored with garlic and Parmesan cheese. - $6/p
+
+    Roasted Wild Mushrooms - A medley of wild mushrooms roasted with garlic and herbs. - $11/p
+
+    House-Made Parkerhouse Rolls - Soft and fluffy rolls made from scratch, served warm with butter. - $5/p
+
+    Cheddar Biscuits - Flaky biscuits made with sharp cheddar cheese and served warm. - $2.50/p
+
+    Onion Rings - Crispy battered onion rings served with a side of bistro sauce. - $4/p
+
+    Mac Salad - Classic macaroni salad with creamy dressing, celery, and onions. - $2.50/p
+
+    Classic Pasta Salad - Tri-color rotini pasta tossed with vegetables and Italian dressing. - $4/p
+
+    Ziti Pasta - Ziti pasta tossed in marinara sauce and topped with melted mozzarella cheese. - $9/p
+
+Desserts:
+
+    Pan De Elote w/ Dulche De Leche - A sweet Mexican cornbread cake served with a drizzle of dulce de leche. - $5/p
+
+    Chocolate Cake - Rich and decadent chocolate cake layered with creamy chocolate frosting. - $4/p
+
+    Chocolate Chip Cookies - Classic chocolate chip cookies baked to perfection. - $2/p
+
+    Chocolate and Fruit Charcuterie - A decadent platter of assorted chocolates, fresh fruits, and nuts. - $11/p
+
+    Brownies - Fudgy chocolate brownies topped with a sprinkle of powdered sugar. - $2.50/p
+
+    Bread Pudding - A comforting dessert made with bread soaked in a rich custard, baked until golden, and served with a warm bourbon sauce. - $3/p
+
+    Tiramisu - Layers of coffee-soaked ladyfingers and mascarpone cream dusted with cocoa powder. - $9/p
+
+    Lemon Tart - Tangy lemon curd baked in a buttery tart shell and topped with whipped cream. - $7/p
+
+    Chocolate Fondue / Fountain - A cascading fountain of rich melted chocolate served with a variety of dippable treats. - $100 + $15/p
