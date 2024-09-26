@@ -13,6 +13,9 @@ export default function Layout({ children }) {
         <div className="mx-auto">
           {children}
         </div>
+        <div className="bg-gray-500 p-2 w-full text-center">
+          Made with ❤️ by <a className="underline" href="https://dylandunn.me">Dylan Dunn</a>
+        </div>
       </div>
     </>
   );
