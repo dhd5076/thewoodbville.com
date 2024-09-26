@@ -3,40 +3,37 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <>
-    <div className="relative min-h-[50vh] flex justify-center items-center p-4 bg-[url('/bg.png')] bg-center bg-cover max-h-[50vh]">
-      <div className="absolute inset-0 bg-black opacity-50"></div>
-      <h1 className="font-black text-gray-100 text-6xl font-sans text-center p-4 relative z-10">
+    <div className="relative min-h-[100vh] flex justify-center items-center p-4 bg-center bg-[url('/bg.png')] bg-cover">
+      <div className="absolute inset-0"></div>
+      <h1 className="font-black [text-shadow:_0_5px_2px_rgb(0_0_0_/_40%)] font-chelsea text-gray-100 text-5xl text-center p-4 relative z-10">
         EAT. DRINK. GOLF. DINK.
       </h1>
     </div>
 
-    <div className="bg-white font-sans">
-      <div className="flex max-w-7xl m-auto text-black">
-        <div className="w-1/2 p-8">
-          <h1 className="text-7xl w-1/2 font-bold pb-4 text-emerald-900 uppercase">Welcome To The Wood</h1>
-          <p className="leading-8 font text-lg">We’re a regulation 9-hole course nestled among the rolling hills and towering hardwoods of Baldwinsville, NY. Golfers of all levels enjoy the challenge of our unique layout and well-established fairways. While everyone loves The Wood for the course — we’re so much more than golf. We’re a place for friends and family to gather for food, drink, music and fun.</p>
+    <div className="font-goudos">
+      <div className="lg:flex bg-black m-auto text-black bg-white ">
+        <div className="w-full lg:w-1/2 p-8 bg-white">
+          <div className="max-w-lg ml-auto">
+            <h1 className="text-5xl w-full sm:text-7xl pb-4 text-primary uppercase font-black">Welcome To The Wood</h1>
+            <p className="leading-8 font text-lg">Experience our regulation 9-hole course, tucked within the scenic rolling hills and majestic hardwoods of Baldwinsville, NY. With its distinctive layout and mature fairways, The Wood offers a challenge for golfers of all skill levels. But there's more to us than just golf — we're a vibrant destination where friends and family come together for great food, refreshing drinks, live music, and unforgettable memories.</p>
+          </div>
         </div>
-        <div className='w-1/2'>
-          <img src="sign.jpg" className="object-cover"></img>
+        <div className="w-1/2">
+          <img src="/barn.png" className='object-cover h-full w-full'></img>
         </div>
       </div>
     </div>
-    <div className="flex max-w-7xl m-auto bg-emerald-900">
-      <div className="w-1/2">
-        <img src="pic2.webp" className="object-cover"></img>
-      </div>
-      <div className="p-8 text-white w-1/2">
-      <h1 className="text-7xl font-bold pb-4 text-white uppercase">Come and Visit Us</h1>
-        <h2 className="text-2xl">Location:</h2>
-            <p>Canton Street Road<br/>Baldwinsville, NY 13027</p>
-            <h2 className="text-2xl pt-4">Current Hours:</h2>
-            <ul className="list-disc pl-8">
-              <li>Monday: Closed</li>
-              <li>Tue, Wed, Thu, Sat: 11:30 am - 9:00 pm</li>
-              <li>Friday: 11:30 am - 10:00 pm</li>
-              <li>Sunday: 12:00 pm - 6:00 pm</li>
-            </ul>
-            <p className="text-sm pt-2">Kitchen generally closes 30 minutes before closing time.</p>
+    <div className="font-goudos">
+      <div className="lg:flex bg-black m-auto text-black bg-white ">
+        <div className="w-1/2">
+          <img src="/fish.png" className='object-cover h-full w-full'></img>
+        </div>
+        <div className="w-full lg:w-1/2 p-8 bg-white">
+          <div className="max-w-lg mr-auto">
+            <h1 className="text-5xl w-full sm:text-7xl pb-4 text-primary uppercase font-black">Dining at The Wood</h1>
+            <p className="leading-8 font text-lg">Unwind after a round of golf with a delicious meal and refreshing drinks right inside our clubhouse. From savory burgers and crisp salads to handcrafted cocktails and local brews, our menu is designed to satisfy every craving. Whether you're here for lunch, dinner, or one of our weekly specials, it's the perfect spot to gather with friends and family. Enjoy great food, live music, and a relaxed atmosphere — all just steps from the course.</p>
+          </div>
+        </div>
       </div>
     </div>
     </>

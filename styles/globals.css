@@ -14,3 +14,18 @@ body {
   .dropdown-content {
     display: none;
   }
+
+@font-face {
+  font-family: 'Algeria';
+  src: url('/ALGERIA.ttf');
+}
+
+@font-face {
+  font-family: 'GOUDOS';
+  src: url('/GOUDOS.ttf');
+}
+
+@font-face {
+  font-family: 'CHELSEA';
+  src: url('/CHELSEA.woff');
+}
